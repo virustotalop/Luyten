@@ -24,5 +24,5 @@ Apache License, Version 2.0
 
 ### RSyntaxTextArea
 &copy; 2012 Robert Futrell  
-[http://fifesoft.com/rsyntaxtextarea/](http://fifesoft.com/rsyntaxtextarea/)  
+[http://fifesoft.com/rsyntaxtextarea/](https://github.com/bobbylight/RSyntaxTextArea)  
 [All Rights Reserved](https://github.com/deathmarine/Luyten/blob/master/distfiles/RSyntaxTextArea.License.txt)
