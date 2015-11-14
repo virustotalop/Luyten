@@ -5,13 +5,13 @@ Java Decompiler Gui for Procyon
 Apache License, Version 2.0
 
 ## Screenshot
-![Screen](http://img.ctrlv.in/img/14/09/27/54271ba60e64d.png)
+![Screen](http://i.imgur.com/R832Itp.png)
 
 ### Downloads
-[Releases](https://github.com/deathmarine/Luyten/releases/latest)  
+[Releases](https://github.com/virustotalop/Luyten/releases/latest)  
 
 ### Bugs/Suggestions
-[Issues](https://github.com/deathmarine/Luyten/issues)  
+[Issues](https://github.com/virustotalop/Luyten/issues)  
 
 
 ## Powered by 
